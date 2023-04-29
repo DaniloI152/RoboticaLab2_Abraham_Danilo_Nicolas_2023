@@ -16,10 +16,12 @@ Escribir un código que permita operar una tortuga del paquete turtlesim con el 
 En primer momento se realiza la comunicación con Matlab con el código propuesto en la guía, donde se logra mover la tortuga cada vez que es ejecutada la tercera sección del código.
 
 <div>
-<p style = 'text-align:center;' align="center">
-<img src="https://github.com/DaniloI152/RoboticaLab3_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Turtle.png" width="300px">
-</p>
-  Figura 1. Movimiento de la tortuga con Matlab.
+  <p style = 'text-align:center;' align="center">
+    <img src="https://github.com/DaniloI152/RoboticaLab3_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Turtle.png" width="300px">
+  </p>
+  <p style = 'text-align:center;' align="center">
+    Figura 1. Movimiento de la tortuga con Matlab.
+  </p>
 </div>
 
 ### Comunicacion con python:
