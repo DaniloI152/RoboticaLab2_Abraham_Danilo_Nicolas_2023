@@ -12,4 +12,6 @@ Escribir un código que permita operar una tortuga del paquete turtlesim con el 
 • Retornar a la posición y orientación centrales con la tecla R. <br>
 • Giro de 180° con la tecla ESPACIO. <br>
 ## Desarrollo:
+### Comunicacion con matlab:
 En primer momento se realiza la comunicación con Matlab
+### Comunicacion con python:
