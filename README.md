@@ -17,7 +17,7 @@ En primer momento se realiza la comunicación con Matlab con el código propuest
 
 <div>
   <p style = 'text-align:center;' align="center">
-    <img src="https://github.com/DaniloI152/RoboticaLab3_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Turtle.png" width="300px">
+    <img src="https://github.com/DaniloI152/RoboticaLab3_Abraham_Danilo_Nicolas_2023/blob/main/Imagenes/Turtle.png" width="600px">
   </p>
   <p style = 'text-align:center;' align="center">
     Figura 1. Movimiento de la tortuga con Matlab.
