@@ -1,8 +1,8 @@
 ## Laboratorio 3 Robótica
 ### Integrantes: 
 - Danilo Enrique Insuasty Delgado.
-- Abraham Másmela Ramirez
-- Nicolás Prieto Solano
+- Abraham Másmela Ramirez.
+- Nicolás Prieto Solano.
 ## Descripción
 Se hace un acercamiento a ROS  (Rootic Operative System) y sus comandos principales, realizano la conexión de ROS con Matlab y Python.
 ## Objetivos:
